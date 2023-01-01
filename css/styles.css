@@ -1,44 +1,39 @@
 .blur{
-    position: absolute;
+position: absolute;
 width: 1440px;
 height: 75px;
 left: 0px;
 top: 0px;
 margin: 0;
-
 background: rgba(255, 255, 255, 0.1);
 backdrop-filter: blur(25px);
 }
 .market{
-    position: absolute;
+position: absolute;
 width: 117px;
 height: 19px;
 left: 505px;
 top: 10px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
-
 color: #FFFFFF;
 }
 .about{
-    position: absolute;
+position: absolute;
 width: 56px;
 height: 19px;
 left: 674px;
 top: 10px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
-
 color: #FFFFFF;
 }
 .resource{
@@ -47,34 +42,28 @@ width: 96px;
 height: 19px;
 left: 782px;
 top: 10px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 19px;
 text-transform: uppercase;
-
 color: #FFFFFF;
 
 }
 .twitter{
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    left: 1321px;
-    top: 25px;
-    
-
-
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1321px;
+top: 25px;
 }
 .facebook{
-    position: absolute;
-    width: 15px;
-    height: 24px;
-    left: 1276px;
-    top: 25px;
-    
+position: absolute;
+width: 15px;
+height: 24px;
+left: 1276px;
+top: 25px;
 }
 .faq{
     position: absolute;
@@ -93,7 +82,7 @@ text-transform: uppercase;
 color: #FFFFFF;
 }
 .music{
-    position: absolute;
+position: absolute;
 width: 123px;
 height: 48px;
 left: 42px;
@@ -142,20 +131,16 @@ filter: blur(176.733px);
 transform: rotate(76.66deg);
 }
 .image{
-    
-    
-    position: absolute;
+position: absolute;
 width: 658.5px;
 height: 878px;
 left: 782px;
 top: -20px;
 }
 .word{
-    
     color: #FFFFFF;
 }
 .word1{
-    
 position: absolute;
 width: 889px;
 height: 97px;
@@ -197,7 +182,6 @@ line-height: 160%;
 }
 body{
     background-color: black;
-    
 }
 .power{
     position: absolute;
@@ -244,51 +228,72 @@ button:hover{
     color: black;
 }
 .hr1{
-    border-style: solid;
-    border-bottom: none;
-    border-color: #FFFFFF;
     position: absolute;
     width: 1440px;
-    top: 780px;
-    margin: 0;
+    height: 0px;
+    left: 0px;
+    top: 770px;
+    border: 1px solid #FFFFFF;
 }
 .p1{
-    color: #FFFFFF;
-    display: flex;
-   position: absolute;
-   top: 770px;
-    right: 600px;
-    font-family: 'Inter';
+    position: absolute;
+width: 406px;
+height: 29px;
+left: -6px;
+top: 782px;
+
+font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
 font-size: 24px;
 line-height: 29px;
-/* identical to box height */
-
 text-transform: uppercase;
+color: #FFFFFF;
+
+}
+.g1{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 390px;
+    top: 795px;
+}
+.g2{
+    position: absolute;
+width: 36px;
+height: 36px;
+left: 872px;
+top: 795px;
+
+}
+.g3{
+    position: absolute;
+width: 36px;
+height: 36px;
+left: 1354px;
+top: 795px;
 }
 .p2{
-    color: #FFFFFF;
-    display: inline;
-   position: absolute;
-   top: 770px;
-    right: 0px;
-    font-family: 'Inter';
+position: absolute;
+width: 406px;
+height: 29px;
+left: 476px;
+top: 782px;
+font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
 font-size: 24px;
 line-height: 29px;
-/* identical to box height */
-
 text-transform: uppercase;
+color: #FFFFFF;
 }
 .p3{
-    color: #FFFFFF;
-    display: inline;
-   position: absolute;
-   top: 770px;
-    right: 1200px;
-    font-family: 'Inter';
+position: absolute;
+width: 406px;
+height: 29px;
+left: 958px;
+top: 782px;
+font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
 font-size: 24px;
@@ -296,14 +301,16 @@ line-height: 29px;
 /* identical to box height */
 
 text-transform: uppercase;
+
+color: #FFFFFF;
 }
 .hr2{
-    border-style: solid;
-    border-bottom: none;
-    border-color: #FFFFFF;
     position: absolute;
     width: 1440px;
-    top: 820px;
+    height: 0px;
+    left: 0px;
+    top: 844px;
+    border: 1px solid #FFFFFF;
 }
 .ori{
     color: white;
@@ -312,7 +319,6 @@ text-transform: uppercase;
     height: 194px;
     left: 40px;
     top: 900px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -355,10 +361,7 @@ top: 950px;
     -o-transform: rotate(-22.54deg);
 }
 .rectangle{
-   
-    
 box-sizing: border-box;
-
 position: absolute;
 width: 485px;
 height: 414.5px;
@@ -373,13 +376,11 @@ width: 620px;
 height: 194px;
 left: 780px;
 top: 1813px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 80px;
 line-height: 97px;
-
 color: #FFFFFF;
 }
 .yo{
@@ -388,15 +389,11 @@ width: 608px;
 height: 145px;
 left: 780px;
 top: 2100px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
 font-size: 18px;
 line-height: 160%;
-/* or 29px */
-
-
 color: #FFFFFF;
 
 }
@@ -406,7 +403,6 @@ color: #FFFFFF;
     height: 194px;
     left: 141px;
     top: 1630px;
-    
 
 }
 .two{
@@ -474,13 +470,11 @@ border: 1px solid #FFFFFF;
     height: 19px;
     left: 140px;
     top: 1836px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
-    
     color: #FFFFFF;
 }
 .two2{
@@ -495,17 +489,15 @@ font-style: normal;
 font-weight: 600;
 font-size: 16px;
 line-height: 19px;
-
 color: #FFFFFF;
 
 }
 .two3{
-    position: absolute;
+position: absolute;
 width: 80px;
 height: 19px;
 left: 183px;
 top: 2141px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 600;
@@ -603,17 +595,12 @@ color: #FFFFFF;
     height: 116px;
     left: 40px;
     top: 2856px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 160%;
-    /* or 29px */
-    
-    
     color: #FFFFFF;
-    
 }
 .t{
     position: absolute;
@@ -621,17 +608,12 @@ color: #FFFFFF;
     height: 116px;
     left: 514px;
     top: 2856px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 160%;
-    /* or 29px */
-    
-    
     color: #FFFFFF;
-    
 }
 .y{
     position: absolute;
@@ -656,7 +638,6 @@ color: #FFFFFF;
     height: 490.22px;
     left: 563.54px;
     top: 2915.45px;
-    
     background: linear-gradient(180deg, #2603FB 0%, #DC06FF 100%);
     filter: blur(250px);
     transform: rotate(-22.54deg);
